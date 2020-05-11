@@ -1,0 +1,10 @@
+This was the first challenge I solved.
+
+When i opened the Juice Shop homepage, I opened my Developer Tools and selected the Network tab.
+Then refreshed the page to figure out everything thats happening.
+
+The first suspicious URL i came across was named as application-configuration.
+
+I opened it where it had the app info and in the securityTxt, i found in acknowledgements a "/#/score-board"
+
+The # was also a part of the home page as localhost:3000/#/ from where i figured out that this might lead me to the Scoreboard and it did.
