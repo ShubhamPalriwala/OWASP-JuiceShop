@@ -7,6 +7,14 @@ The first suspicious URL i came across was named as application-configuration.
 
 I opened it where it had the app info and in the challenges, i found something titled as xssBonusPayload and i realised that i might have just found something.
 
-It had the whole iframe code i needed so i just copied it and pasted it on the Search field i saw at the homepage..
+It had the XSS vulnerability.
 
-And there i solved this challenge.
+To try it, i just gave a simple alert script and yes it had one.
+
+Now i opened the Score-board just to find out what was to be displayed to solve this XSS challenge.
+
+Surprisingly there were 2 challenges regarding this so both of them got done:
+DOM XSS
+Bonus Payload
+
+And there i solved these challenges.
