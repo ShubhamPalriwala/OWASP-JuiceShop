@@ -1,0 +1,12 @@
+While registering a user, we were only asked to repeat the password again that meant we were supposed to manipulate it.
+
+Now, i tried to inpect the elements and disabled the whole repeat password input field but it did not help,
+as the form wasn't going through.
+
+I tried entering different passwords expecting it to work i dont why and it failed obviously.
+So now i tried random things such as trying to comment out the repeat password but it did not work too.
+
+After like an hour, i first changed my password before changing the repeat password field (was just trying different combinations) and there was a surprise,
+No different password warning was given,
+
+I clicked the submit button and yes there i was completing the challenge successfully.
