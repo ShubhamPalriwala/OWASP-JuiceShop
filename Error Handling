@@ -1,0 +1,5 @@
+I was randomly going across the my profile page where i, by mistake clicked the Link image button without enetering any URL,
+
+I got an Error and i just realised that i solved another challenge lol.
+
+This challenge was to provoke an Error which wasn't gracefully or consistently handled, in simple words, an error case wasn't defined here. 
