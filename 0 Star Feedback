@@ -1,0 +1,8 @@
+The first time i gave a random feedback and realised that all the field are mandatory as without the button just doesnt work.
+
+I inspected the elements and found out that there was no specific required field in their html tags.
+so it was clear that the Submit button had something.
+
+I found out that it had a disable property which i disabled later xD,
+
+The moment i removed the property, i was able to submit my Zero Star feedback hence the challenge was solved.
