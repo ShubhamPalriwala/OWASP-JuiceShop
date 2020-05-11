@@ -1,0 +1,12 @@
+This was the second challenge I solved.
+
+When i opened the Juice Shop homepage, I opened my Developer Tools and selected the Network tab.
+Then refreshed the page to figure out everything thats happening.
+
+The first suspicious URL i came across was named as application-configuration.
+
+I opened it where it had the app info and in the challenges, i found something titled as xssBonusPayload and i realised that i might have just found something.
+
+It had the whole iframe code i needed so i just copied it and pasted it on the Search field i saw at the homepage..
+
+And there i solved this challenge.
