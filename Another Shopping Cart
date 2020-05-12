@@ -1,0 +1,15 @@
+So, i had no clue that i solved this Challenge.
+
+Actually, i had a couple of Juice Shop homepages open and one had an account logged in while the other wasn't logged in.
+
+Now i had to create an account for another user and after doing that, i added a product in my cart.
+
+Now, i went to the scoreboard to see what challenge i'll be doing next.
+
+So i decided to do the Cryptography one, for that i opened my initially logged in tab and went to the basket in it,
+
+Suddenly, a header saying that i've just solved a challenge named as 'View another user's Shooping Cart'.
+
+I think that the Session ID were different, and the website did not update it when the page reloads which is a vulnerability.
+
+Unexpected success here..
