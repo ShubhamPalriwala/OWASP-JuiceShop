@@ -1,0 +1,15 @@
+Found this challenge in the Score-board.
+
+First went to the homepage wondering if I'd find something there. But did not :(
+
+Then found something as a Photo Wall, when i went there, i found 3 photos, 2 loaded properly and one with an alt tag.
+
+First, i tried to see what the Network tab had to offer, i thought i had something but is a dead lead.
+
+Then i tried to inspect each element, and tried to load the unavailable picture,
+
+Found it's URL in the inspect element but it could't load, figured it out quickly that it was due to the #' present in raw format.
+
+Googled and found out that in a URL, '#' is encoded as %23 and the moment i changed them, i had the picture and boom the challenge was solved.
+
+A dead end wasted an hour of me but i still feel that lead will haunt and come back again.
