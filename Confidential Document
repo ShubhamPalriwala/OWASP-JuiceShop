@@ -1,0 +1,7 @@
+This challenge was one of the few challenges in which i knew what to do but was so frustrated as i wasnt able to find it.
+
+Here, i knew i had to tamper or modify the url once i found where all the files were stored.
+
+Took me some time to find that they were in the About us page which had a link with a '/ftp/' and i was so happy i found it
+
+Now, i just removed all the subdomains after the '/ftp/' and found all the files and thus solved the challenge.
