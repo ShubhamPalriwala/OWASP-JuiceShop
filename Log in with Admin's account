@@ -1,0 +1,11 @@
+So, i think one's of the simplest of challeges,
+
+A basic SQL Injection as follows:
+
+username:admin' OR 1==1 --
+
+password: lol (ikr it doesn't matter)
+
+Here, as expected, i was in the admin's account. 
+
+Thus Solving the challege.
