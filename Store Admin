@@ -1,0 +1,14 @@
+So, I got lucky again ig.
+
+In this challenge, we had to access the Store's Administration page.
+
+I tried to enter in random URL's as i could not find anything in the application-configuration file or any others i tried on to.
+
+So, after a few tries, i tried to enter '/administration' and surprisingly got a 403 Forbidden error.
+Now i knew i was onto something.
+
+I logged in the Admin's account and then went to the page and yes the challenge was solved.
+
+Did not learn anything new in this so currently not satisfied.
+
+Gotta do more.
