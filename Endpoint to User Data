@@ -1,0 +1,11 @@
+I had no clue about this challenge,
+
+However, when i saw this in the Score-board, it had a reference link to the Monitoring System's Github tool.
+
+Now, all i was looking for was a Url subpage, but did not find one on their Github Readme so i went to their main documentation.
+
+There, i started going through one by one not thoroughly but just trying to find '/' in the page, lol.
+
+On the second or third page ig, i found the /metrics and as soon as i used it in the Juice SHop, i got a ton of information and cracked the challenge.
+
+I wouldn't have been able to do it if the reference link wasn't provided.
