@@ -1,0 +1,6 @@
+A Simple challenge to access Jim's account.
+
+Found his email ID from the user reviews of products by going through them and then performing a simple SQL injection,
+I was able to get into his account thus solving the challenge.
+
+I dont know why this was labelled as a 3 Star challenge.
