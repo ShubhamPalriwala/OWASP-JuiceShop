@@ -1,0 +1,25 @@
+So, this drained me completely.
+
+When I was choosing a challenge, I was looking for an easy or direct one thus chose this one as it was related to Provacy Policy.
+
+Turns out, was a Bad choice.
+
+Went to the Privacy Policy page and went through the Network or Inspect Element, did not find anything.
+
+Then i was randomly going through the page and suddenly I observed some animation so inspected that element.
+
+And to my surprise, Out of the whole paragraph, only this had a separate class.
+
+I searched for the class and suddenly found out "localhost" mentioned as if it was some URL.
+
+I went through all of the similar classes and managed to get something like:
+
+http://localhostwemayalsoinstructyoutorefuseallreasonablynecessaryresponsibility
+
+Now, this definitely was a URL, so I started to decode it.
+
+The tough part was to try different combinations in how it worked.
+
+I tried like 10 of them and was finally able to crack this out.
+
+I think am not in any mood to take another challenge today now.
