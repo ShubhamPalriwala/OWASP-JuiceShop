@@ -1,0 +1,11 @@
+This challenge was comparatively easier than what I expected.
+
+The Feedback form by default enters feedback either by your name (if you're logged in) or anonymous.
+
+I inspected the elemented and after a couple of random tries and manipulations, found something hidden,
+So after removing the Hidden attribute of it, another field appeared which lets you set the name of the user.
+
+This was hidden completely, i entered any random name and filled the form.
+
+The challenge was solved.
+
