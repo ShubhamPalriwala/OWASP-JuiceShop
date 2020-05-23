@@ -1,0 +1,19 @@
+In this challenge. i had to upload a file of size upto 100kB.
+
+I found the upload file feature in the Compliant form.
+
+I tried to upload a larger file but i could not.
+
+Opened the Network Tab and found out that is uploaded on a /fileupload URL.
+
+Thought that this might only be a warning on the front end and the backend might not have such restrictions.
+
+Opened Postman, tried to upload a file with the file key but it said i was uploading a very large file.
+
+I tried to upload a smaller less than 100 kB file to check if my conditions were correct and they were.
+
+Then I uploaded a 155 kB file which is higher than the 100kB limit and boom it returned a 20X status code.
+
+Thus, the challenge was solved.
+
+My first challenge which involved Server Side manipulation
