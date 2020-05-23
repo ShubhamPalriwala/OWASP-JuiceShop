@@ -1,0 +1,9 @@
+The previous challenge i did was to upload a file >100kB which was the limit as mentioned in the front end.
+
+Here, I used the same method that is, used Postman, and instead of the allowed .pdf or .zip file, i tried to upload an image i.e PNG file,
+
+I was successful and the challenge was easisly solved.
+
+Exactly same as the previous one.
+
+Manipulating the request.
